@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "469157269968",
+    "project_id": "campus-3920b",
+    "storage_bucket": "campus-3920b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469157269968:android:6d6028b1e99c727d7929d5",
+        "android_client_info": {
+          "package_name": "com.example.campus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGUny9pNya4N-LbJPEkszt1JhUHpXhp8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
